@@ -4,8 +4,7 @@ If you're looking for a quick and easy way to set up a Linux VNC desktop using D
 
 ## Prerequisites
 
-- GCP Account with root access
-- Free 16GB RAM and 4vCPU
+- GCP Account
 
 ## Instructions
 
