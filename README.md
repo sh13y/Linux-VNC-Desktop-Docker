@@ -4,7 +4,7 @@ If you're looking for a quick and easy way to set up a Linux VNC desktop using D
 
 ## Prerequisites
 
-- GCP Account
+- Google Account
 
 ## Instructions
 
