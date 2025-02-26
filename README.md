@@ -26,6 +26,10 @@ If you're looking for a quick and easy way to set up a Linux VNC desktop using D
 
 7. You're done! Access your Linux VNC desktop by navigating to the provided URL in your web browser.
 
+## VNC Preview Screenshot
+
+![VNC Preview](screenshot.png)
+
 Feel free to customize and explore the Docker image for additional configurations.
 
 Happy coding!
